@@ -1,1 +1,5 @@
 
+<div id="player-container">
+<object type="application/x-shockwave-flash" id="player" data="/player/grindplayer/GrindPlayer.swf" style="visibility: visible;" height="480" width="640"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="wmode" value="opaque"><param name="flashvars" value="autoPlay=true&amp;src=rtmp%3A//178.132.6.125/static/bein2&amp;streamType=live&amp;scaleMode=letterbox"></object>
+<div id="player-tip" style="display: none;"></div>
+</div>
